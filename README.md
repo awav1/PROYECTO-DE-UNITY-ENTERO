@@ -9,10 +9,7 @@ La carpeta debe contener directamente: Assets, Packages y ProjectSettings
 Si aparece algún error al abrir:
 1. Cerrar Unity.
 2. Borrar las siguientes carpetas que tiene dentro ‘CARPETA CON PROYECTO
-ENTERO’:
-○ Library
-○ Temp
-○ obj
+ENTERO’: Library, Temp y obj
 3. Volver a abrir el proyecto. Si aparecen errores antiguos en la consola de
 Unity, puede pulsarse el botón “Clear” para limpiar la consola y visualizar
 únicamente los errores actuales del proyecto, si aún los hay.
