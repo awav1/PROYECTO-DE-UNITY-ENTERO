@@ -5,10 +5,7 @@ Para abrir correctamente el proyecto entero:
 4. Elegir la carpeta:
 CARPETA CON PROYECTO ENTERO
 Importante:
-La carpeta debe contener directamente:
--Assets
--Packages
--ProjectSettings
+La carpeta debe contener directamente: Assets, Packages y ProjectSettings
 Si aparece algún error al abrir:
 1. Cerrar Unity.
 2. Borrar las siguientes carpetas que tiene dentro ‘CARPETA CON PROYECTO
